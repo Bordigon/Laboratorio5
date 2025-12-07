@@ -1,0 +1,1 @@
+java -jar lib/junit-platform-console-standalone-1.9.2.jar --class-path "bin;lib/aedlib.jar" --scan-class-path
